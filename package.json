@@ -1,0 +1,43 @@
+{
+  "name": "third-assessment-test-1",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@hookform/resolvers": "^7.0.5",
+    "@mui/icons-material": "^9.5.0",
+    "@mui/material": "^9.5.0",
+    "@reduxjs/toolkit": "^2.14.0",
+    "axios": "^1.21.1",
+    "js-cookie": "^3.0.8",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-dropzone": "^20.2.0",
+    "react-hook-form": "^7.91.0",
+    "react-redux": "^9.3.1",
+    "react-router-dom": "^7.18.5",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "autoprefixer": "^10.6.2",
+    "eslint": "^10.14.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.13.0",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^3.4.19",
+    "vite": "^8.3.6"
+  }
+}
